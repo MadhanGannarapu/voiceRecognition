@@ -1,24 +1,3 @@
-/* .content {
-    background-color: aqua;
-    font-family: sans-serif;
-    animation: text 0.5s infinite ease;
-}
-
-.talk {
-    margin: 10px;
-    width: 500px;
-} */
-/* 
-.container {
-    margin: 10px;
-    border: 2px solid black;
-    border-radius: 5px;
-    position: relative;
-} */
-
-/* .content::after {
-    position: absolute;
-} */
 
 .body {
     background-color: black;

@@ -39,3 +39,4 @@ function typingtext() {
         setTimeout(typingtext, 50);
     }
 }
+
